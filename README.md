@@ -5,6 +5,7 @@ This repository includes the following components:
 A Jupyter notebook containing a detailed analysis of ERP sales transaction data.
 The key insights and results are summarized in this document:
 👉 ERP Sales Transactions Analysis – Notion Doc
+https://typical-purpose-d11.notion.site/ERP-Sales-Transactions-Analysis-1be7e934162780688a78fbea5a473069?pvs=4
 
 🤖 Model Building
 A Jupyter notebook that builds a linear regression model to predict total profit based on features from the dataset.
