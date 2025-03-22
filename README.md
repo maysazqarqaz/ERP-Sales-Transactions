@@ -12,9 +12,6 @@ A Jupyter notebook that builds a linear regression model to predict total profit
 
 🌐 Flask Web Application:
 A Flask-based web app that allows users to interact with ERP data via:
-
 🔎 Generating SQL queries from natural language questions
-
 💬 Answering questions about the data
-
 📈 Making predictions using a pre-trained linear regression model
